@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DOG LOVER</string>
+    <string name="action_settings">Settings</string>
+    <string name="dog_one_info">Little sleeping dog</string>
+    <string name="dog_two_info">A dog sticking his tongue out while lying down in a dog bed and yawning.</string>
+    <string name="dog_three_info">A golden retreiver dog with an American flag and bicycle behind him</string>
+    <string name="dog_four_info">A sunshine puppy</string>
+    <string name="dog_five_info">A still puppy</string>
+</resources>
