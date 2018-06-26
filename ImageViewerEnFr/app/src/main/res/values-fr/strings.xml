@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ImageViewerEnFr</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="dog_one_info">Petits Chiens Endormis</string>
+    <string name="dog_two_info">Un chien qui sort sa langue en se couchant dans un lit de chien et bâillements.</string>
+    <string name="dog_three_info">Un chien golden retriever avec un drapeau américain et une bicyclette derrière lui</string>
+    <string name="dog_four_info">Un chiot ensoleillé</string>
+    <string name="dog_five_info">Un chiot encore</string>
+    <string name="dog_lover_quote">Un chien est la seule chose sur terre qui vous aime plus que vous ne vous aimez</string>
+</resources>
